@@ -2,6 +2,8 @@
 
 This is a tool to process output (timeseries) csv files produced by SKIRON weather and dust modelling system.
 
+Download from [release page](https://github.com/aliakatas/SKIRON_analysis_pack/releases).
+
 It is able to produce basic statistical indexes such as:
 - *Minimum value*
 - *Maximum value*
