@@ -1,4 +1,4 @@
-# Skiron_analysis_pack
+# SKIRON model data analysis package
 
 This is a tool to process output (timeseries) csv files produced by SKIRON weather and dust modelling system.
 
